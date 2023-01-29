@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+![mhamiri96's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamiri96&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,2C5364,203A43,0F2027)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamiri96&theme=dracula&bg_color=DEG,16222A,3A6073)](https://github.com/mhamiri96/github-readme-stats)
+
+
+
+
 <!--
 **mhamiri96/mhamiri96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
